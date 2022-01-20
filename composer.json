@@ -6,8 +6,7 @@
   "prefer-stable": true,
   "minimum-stability": "dev",
   "license": [
-    "OSL-3.0",
-    "AFL-3.0"
+        "https://dolphinwebsolution.com/shop/license-agreement"
   ],
   "require": {
     "php": "~7.0.13|~7.1.0",
