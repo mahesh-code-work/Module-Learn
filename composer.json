@@ -8,7 +8,9 @@
       "AFL-3.0"
     ],
     "require": {
+      "magento/project-community-edition": "*",
       "php": "~7.3.0||~7.4.0"
+
     },
     "autoload": {
       "files": [ "registration.php" ],
