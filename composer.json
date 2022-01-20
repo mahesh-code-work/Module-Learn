@@ -10,7 +10,7 @@
     ],
     "require": {
       "magento/magento-composer-installer": "*",
-      "magento/product-community-edition": "0.1.0-alpha89",
+      "magento/product-community-edition": "0.1.0-alpha89"
     },
     "autoload": {
       "files": [ "registration.php" ],
