@@ -1,0 +1,24 @@
+{
+    "name": "custom/productlist",
+    "description": "Example using 'areas' - displays application state including a list of loaded modules",
+    "require": {
+        "magento/framework": "0.1.0-alpha89"
+    },
+    "type": "magento2-module",
+    "version": "0.1.0",
+    "extra": {
+        "map": [
+            [
+                "*",
+                "Custom/Productlist"
+            ]
+        ]
+    },
+    "authors": [
+        {
+            "name": "Mahesh Makwana",
+            "homepage": "https://www.example.com/",
+            "role": "Developer"
+        }
+    ]
+}
