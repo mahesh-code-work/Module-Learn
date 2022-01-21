@@ -10,11 +10,7 @@
     "AFL-3.0"
   ],
   "require": {
-    "php": "~7.2.0||~7.4.3",
-    "magento/framework": "~100.0.4"
-  },
-  "require-dev": {
-    "magento/magento-composer-installer": "^0.1.13"
+    "php": "~7.2.0||~7.4.3"
   },
   "authors": [
     {
