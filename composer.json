@@ -1,30 +1,20 @@
-
 {
-"name": "customdol/productlist",
-"description": "A Magento 2 module that creates a new page",
-"type": "magento2-module",
-"version": "1.0.0",
-"prefer-stable": true,
-"minimum-stability": "dev",
-"license": [
-"OSL-3.0",
-"AFL-3.0"
-],
-"require": {
-"php": "~7.2.0||~7.4.3"
-},
-"authors": [
-{
-"name": "Mahesh Makwana",
-"email": "mahesh@dolphinwebsolution.com",
-"homepage": "https://dolphinwebsolution.com/",
-"role": "Developer"
-}
-],
-"autoload": {
-"files": [ "registration.php" ],
-"psr-4": {
-"Customdol\\Productlist\\": ""
-}
-}
+  "name": "customdol/productlist",
+  "description": "A Magento 2 module that creates a new page",
+  "type": "magento2-module",
+  "version": "1.0.0",
+  "license": [
+    "OSL-3.0",
+    "AFL-3.0"
+  ],
+  "require": {
+    "php": "~7.2.0||~7.3.0",
+    "magento/framework": "~100.0.4"
+  },
+  "autoload": {
+    "files": [ "registration.php" ],
+    "psr-4": {
+      "Customdol\\Productlist\\": ""
+    }
+  }
 }
