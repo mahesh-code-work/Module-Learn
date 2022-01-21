@@ -13,6 +13,14 @@
     "php": "~7.0.13|~7.1.0",
     "magento/framework": "~100.0.4"
   },
+  "authors": [
+    {
+      "name": "Mahesh Makwana",
+      "email": "mahesh@dolphinwebsolution.com",
+      "homepage": "https://dolphinwebsolution.com/",
+      "role": "Developer"
+    }
+  ],
   "autoload": {
     "files": [ "registration.php" ],
     "psr-4": {
