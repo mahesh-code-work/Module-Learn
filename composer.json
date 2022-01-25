@@ -1,6 +1,6 @@
 {
   "name": "customdol/productlist",
-  "description": "A Magento 2 module that creates a new page",
+  "description": "Magento 2 - creates a new page",
   "type": "magento2-module",
   "version": "0.0.1",
   "license": [
